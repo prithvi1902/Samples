@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewModelDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Enter your text here</string>
+    <string name="send">Send my Message</string>
+    <string name="msg">Message Received</string>
+    <string name="message">Your message will be displayed here</string>
+</resources>
